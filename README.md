@@ -6,5 +6,5 @@ A simple Analog Gauge Reader from the Gauge images using python3 and OpenCV libr
 * Images sample in images folder
 ## How to run
 Select the image of analog gauge  
-For example, image file: 4.jpg  
-![image file](images/4.jpg)
+For example, image file: 3.jpg  
+![image file](images/3.jpg)
